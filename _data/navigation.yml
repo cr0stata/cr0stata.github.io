@@ -2,7 +2,11 @@
 main:
   - title: "home"
     url: /
-  - title: "Quick-Start Guide"
+  - title: "projects"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - tile: "blog"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - tile: "about"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
