@@ -10,4 +10,3 @@ excerpt: >
   A <code>miscellaneous</code> file site of what I do in my life.
 ---
 
-Example
