@@ -3,6 +3,9 @@ layout: splash
 title: "home"
 permalink: /
 author_profile: true
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/mm-home-page-feature.jpg
 ---
 
 **Interests**: most reasonable use cases of ML
