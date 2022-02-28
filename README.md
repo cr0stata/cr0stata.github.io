@@ -4,10 +4,7 @@
 [![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.7-blue.svg)](https://jekyllrb.com/)
 [![Ruby gem](https://img.shields.io/gem/v/minimal-mistakes-jekyll.svg)](https://rubygems.org/gems/minimal-mistakes-jekyll)
 
-[![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal)](https://www.paypal.me/mmistakes)
-[![Donate to this project using Buy Me A Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg)](https://www.buymeacoffee.com/mmistakes)
-
-Minimal Mistakes is a flexible two-column Jekyll theme, with which I built my first personal website. The whole project is available [here](https://github.com/benbalter/jekyll-include-cache).
+Minimal Mistakes is a flexible two-column Jekyll theme, with which I built my first personal website. \\ The whole project is available [here](https://github.com/benbalter/jekyll-include-cache).
 
 
 
