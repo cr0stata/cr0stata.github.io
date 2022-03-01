@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /prova/
+permalink: /blog/
 hidden: true
 title: projects_
 header:
