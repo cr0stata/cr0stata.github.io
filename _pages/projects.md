@@ -8,14 +8,14 @@ header:
 excerpt: >
   A list of my public projects
 ---
-# [Cavitation-Induced Flow Instabilities Identification](/posts/2010-10-25-post-future-date)
+# [Cavitation-Induced Flow Instabilities Identification](/blog/post-future-date)
 The main work I'm focusing on. Using bayesian identifcations and MLE in cavitating inducers for rocket engines.
 
 # [Stochastic Finite-Time Lyapunov Exponentss]()
 The second main task. Using the chaos theory to perform uncertainty propagation in dynamical systems.
 
-# [Pre-Phase A - Microsatellites Constellation for Global Ship Monitoring.]()
-An amazing past project. An ESA-like university <em>concurrent engineering</em> project focused in a constellation for global ship monitoring 
+# [Pre-Phase A - Microsatellites Constellation for Global Ship Monitoring]()
+An amazing past project. An ESA-like university <em>concurrent engineering</em> project focused in a constellation for global ship monitoring.
 
 # [Euclid: Payload and Service Module Structural Analysis]()
 Another amazing past project.
