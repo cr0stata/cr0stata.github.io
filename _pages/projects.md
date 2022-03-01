@@ -10,7 +10,7 @@ excerpt: >
 ---
 # [Cavitation-Induced Flow Instabilities Identification](https://cr0stata.github.io/blog/how-to-remove-excerpt-from-archive-item/)
 [Cavitation-Induced Flow Instabilities Identification](https://cr0stata.github.io/blog/how-to-remove-excerpt-from-archive-item/)
-The main work I'm focusing on. Using bayesian identifcations and MLE in cavitating inducers for rocket engines. asd
+The main work I'm focusing on. Using bayesian identifcations and MLE in cavitating inducers for rocket engines.
 
 # [Stochastic Finite-Time Lyapunov Exponentss]()
 The second main task. Using the chaos theory to perform uncertainty propagation in dynamical systems.
