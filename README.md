@@ -8,7 +8,7 @@ Minimal Mistakes is a flexible [Jekyll](https://jekyllrb.com) theme, with which 
 
 The whole open-source project is available [here](https://github.com/mmistakes/minimal-mistakes).
 
-**If you enjoy this theme, please consider support @mmistakes** 
+**If you enjoy this theme, please consider support [@mmistakes](https://twitter.com/mmistakes)** 
 
 ## Credits
 
