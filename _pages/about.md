@@ -1,9 +1,9 @@
 ---
-layout: linkedin
-permalink: /about/
-toc: true
+layout: default
+permalink: /blog/
+title: "blog_"
 author_profile: true
-tile: "about_"
+toc: true
 ---
 
 Here I will insert a mini resume!

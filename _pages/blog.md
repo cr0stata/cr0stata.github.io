@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 permalink: /blog/
 title: "blog_"
 toc: true
