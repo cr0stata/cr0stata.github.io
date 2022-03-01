@@ -15,6 +15,13 @@ feature_row:
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+  - image_path: /assets/images/proj3.png
+    alt: "100% free"
+    title: "qui julia"
+    excerpt: "Another, past amazing one."
+    url: "/docs/license/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"       
   - image_path: /assets/images/proj2.png
     alt: "fully responsive"
     title: "NEMO - Near Earth Maritime Observation"
@@ -28,7 +35,7 @@ feature_row:
     excerpt: "Another, past amazing one."
     url: "/docs/license/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Learn more"
 ---
 
 {% include feature_row %}
