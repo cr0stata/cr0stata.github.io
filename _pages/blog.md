@@ -6,7 +6,7 @@ title: projects_
 header:
   overlay_color: "#5e616c"
 excerpt: >
-  A list of my public projects:
+  A list of my public projects
 feature_row:
   - image_path: /assets/images/proj1.png
     alt: "customizable"
