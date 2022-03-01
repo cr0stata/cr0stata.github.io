@@ -1,5 +1,7 @@
 ---
 title: "Layout: Header Image Overlay"
+permalink: /
+hidden: true
 header:
   overlay_image: /assets/images/mm-home-page-feature.png
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
