@@ -106,9 +106,6 @@ author:
   avatar           : "/assets/images/bio-photo.png"
   bio              : "An aerospace engineer"
   links:
-    - label: "e-mail"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "stefano_dot_guidolotti_at_gmail_dot_com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cr0stata"

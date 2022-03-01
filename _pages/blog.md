@@ -1,8 +1,8 @@
 ---
 layout: posts
 permalink: /blog/
-title: "blog"
 toc: true
+classes: wide
 ---
 
 Hi 👋
