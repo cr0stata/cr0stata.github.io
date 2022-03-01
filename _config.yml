@@ -104,13 +104,13 @@ analytics:
 author:
   name             : "Stefano Guidolotti"
   avatar           : "/assets/images/bio-photo.png"
-  bio              : "An aerospace engineer"
+  bio              : " "
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cr0stata"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/stefano-guidolotti/"
 
 
