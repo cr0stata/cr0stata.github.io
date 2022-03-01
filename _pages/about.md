@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: linkedin
 permalink: /about/
 toc: true
 author_profile: true

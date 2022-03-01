@@ -1,7 +1,8 @@
 ---
-layout: posts
+layout: single
 permalink: /blog/
 title: "blog_"
+toc: true
 ---
 
 Hi! 👋🏼 🚀

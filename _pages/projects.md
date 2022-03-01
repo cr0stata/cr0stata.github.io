@@ -8,8 +8,8 @@ header:
 excerpt: >
   A list of my public projects
 ---
-# [Cavitation-Induced Flow Instabilities Identification](https://cr0stata.github.io/blog/how-to-remove-excerpt-from-archive-item/)
-[Cavitation-Induced Flow Instabilities Identification](https://cr0stata.github.io/blog/how-to-remove-excerpt-from-archive-item/)
+# [Cavitation-Induced Flow Instabilities Identification](https://cr0stata.github.io/blog/how-to-remove-excerpt-from-archive-item.md/)
+[Cavitation-Induced Flow Instabilities Identification](https://cr0stata.github.io/blog/how-to-remove-excerpt-from-archive-item.md/)
 The main work I'm focusing on. Using bayesian identifcations and MLE in cavitating inducers for rocket engines.
 
 # [Stochastic Finite-Time Lyapunov Exponentss]()
