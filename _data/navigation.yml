@@ -1,13 +1,11 @@
 # main links
 main:
-  - title: "home"
-    url: /
   - title: "projects"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /projects/
   - tile: "blog"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /blog
   - tile: "about"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /about/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
