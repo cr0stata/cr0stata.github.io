@@ -8,8 +8,14 @@ header:
 excerpt: >
   A list of my public projects
 ---
-# [my_personal_website](https://mmistakes.github.io/minimal-mistakes/)
+# [Cavitation-Induced Flow Instabilities Identification](https://mmistakes.github.io/minimal-mistakes/)
+The work I'm focusing on.
 
-# Prova
+# [Dynamical Systems](https://mmistakes.github.io/minimal-mistakes/)
+The second-work I'm focusing on.
 
-*prova* 
+# [NEMO - Near Earth Maritime Observation](https://mmistakes.github.io/minimal-mistakes/)
+An amazing past project.
+
+# [EUCLID: bla bla](https://mmistakes.github.io/minimal-mistakes/)
+An amazing past project.
