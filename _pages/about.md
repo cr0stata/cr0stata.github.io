@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: posts
 permalink: /about/
 title: "about"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
