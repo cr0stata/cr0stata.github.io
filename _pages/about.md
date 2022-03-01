@@ -1,8 +1,8 @@
 ---
 layout: posts
 permalink: /about/
-title: "about"
 toc: true
+author_profile: true
 ---
 
 Here I will insert a mini resume!
