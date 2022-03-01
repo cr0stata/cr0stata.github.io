@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /blog2/
+permalink: /prova/
 hidden: true
 header:
   overlay_color: "#5e616c"
