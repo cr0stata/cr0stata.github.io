@@ -13,4 +13,4 @@ Here you can find my public projects:
 
 ### Euclid: Payload and Service Module Structural Analysis.
 
-[comment]: <> possiamo fare la divisione tra archiaviati e nonw
+[comment]: <> possiamo fare la divisione tra archiaviati e nonw 
