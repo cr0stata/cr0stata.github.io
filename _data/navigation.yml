@@ -1,3 +1,4 @@
+# main links
 main:
   - title: "blog"
     url: /blog/
@@ -5,5 +6,5 @@ main:
     url: /projects/
   - title: "about"
     url: /about/
- - title: "blog2"
-    url: /blog2/
+ - title: "prova"
+    url: /prova/
