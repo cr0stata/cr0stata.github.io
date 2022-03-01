@@ -1,6 +1,7 @@
 ---
 layout: splash
 permalink: /
+title: "hi, I'm cr0stata."
 hidden: true
 excerpt: >
   An aerospace engineer with an applied math mask. <br>
