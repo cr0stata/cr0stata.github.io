@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: default
 permalink: /projects/
 hidden: true
 excerpt: >
