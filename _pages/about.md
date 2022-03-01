@@ -1,78 +1,77 @@
 ---
 layout: home
 permalink: /about/
-title: "About"
+title: "about"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
-    alt: "archive layout example"
-last_modified_at: 2021-05-11T10:23:16-04:00
+
 toc: true
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+Hi 👋
 
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
+My name is Jan Meppe and I am a Machine Learning Engineer at
+[Snappet](https://www.snappet.org/). 
 
-[Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
+Snappet is an EdTech startup building the future of eduction. It's flagship
+product is an online learning platform for primary schools. Through working on
+Snappet provided tablets we provide our pupils a way of learning core
+competencies in math and language through our adaptive and AI-driven educational
+platform. Prior to this, I was a data scientist for a Fortune 500 company.
 
-## Notable Features
+I am passionate about using data to make better decisions. 
 
-- Bundled as a "theme gem" for easier install/upgrading.
-- Compatible with GitHub Pages.
-- Support for Jekyll's built-in Sass/SCSS preprocessor.
-- Nine different skins (color variations).
-- Several responsive layout options (single, archive index, search, splash, and paginated home page).
-- Optimized for search engines with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data
-- Optional [header images](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers), [custom sidebars](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#sidebars), [table of contents](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#table-of-contents), [galleries](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery), related posts, [breadcrumb links](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#breadcrumb-navigation-beta), [navigation lists](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#navigation-list), and more.
-- Commenting support (powered by [Disqus](https://disqus.com/), [Facebook](https://developers.facebook.com/docs/plugins/comments), [Discourse](https://www.discourse.org/), [utterances](https://utteranc.es/), [giscus](https://giscus.app/), static-based via [Staticman v1 and v2](https://staticman.net/), and custom).
-- [Google Analytics](https://www.google.com/analytics/) support.
-- UI localized text in English (default), Arabic (عربي), Brazilian Portuguese (Português brasileiro), Catalan, Chinese, Danish, Dutch, Finnish, French (Français), German (Deutsch), Greek, Hebrew, Hindi (हिंदी), Hungarian, Indonesian, Irish (Gaeilge), Italian (Italiano), Japanese, Korean, Malayalam, Myanmar (Burmese), Nepali (Nepalese), Norwegian (Norsk), Persian (فارسی), Polish, Punjabi (ਪੰਜਾਬੀ), Romanian, Russian, Slovak, Spanish (Español), Swedish, Thai, Turkish (Türkçe), and Vietnamese.
+I *obsessively* collect data and turn them into results. For example I, 
 
-## Demo Pages
+* Used data science to reduce a client's CI/CD build times by 67% resulting in significant cost savings
+* Used data science to become one of Europe's top 500 players in Overwatch (top 0.0012% performance)
+* Used data science to figure out how to solve a Rubik's cube in <15 seconds
 
-| Name                                        | Description                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
-| [Post with Header Image][header-image-post] | A post with a large header image. |
-| [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
-| [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
-| [Post with a Gallery][gallery-post] | A post showing several images wrapped in `<figure>` elements. |
-| [Sample Collection Page][sample-collection] | Single page from a collection. |
-| [Categories Archive][categories-archive] | Posts grouped by category. |
-| [Tags Archive][tags-archive] | Posts grouped by tag. |
+I code:
 
-F
+* I do machine learning stuff in **Python** with **TensorFlow/Keras**, **Scikit-learn**, **Pandas**, and **Numpy**
+* I do web stuff in **JavaScript** with **React**, **React-native**, and **Node.js**
 
----
+[Here](https://docs.google.com/document/d/1utv_GYHvGBNxgESQV14KaLHvbMk5COme7LNIu5yaxl8/edit?usp=sharing) is a list of some of the technical things that I've worked on. 
 
-## Credits
+I write:
 
-### Icons + Demo Images:
+* I write a sort-of daily newsletter, [Today Jan Learned](https://janmeppe.substack.com/). In 2020 I published 37 editions of TJL. 
+* I also write on my blog [www.Janmeppe.com](https://www.janmeppe.com/). In 2020 I published 23 blog posts and in 2019 I published 7. 
+* One of my blog posts was featured on the front page of [Hacker News](https://news.ycombinator.com/item?id=20608032) and was read more than 30.000 times.
 
-- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
-- [Font Awesome](http://fontawesome.io/)
-- [Unsplash](https://unsplash.com/)
+I am currently learning React-Native to build native apps:
 
-### Other:
+* [Simple React Native Redux counter example
+](https://www.janmeppe.com/blog/simple-react-native-redux-counter/)
+* [How to add a bottom modal in React Native
+](https://www.janmeppe.com/blog/how-to-add-bottom-modal-react-native/)
 
-- [Jekyll](https://jekyllrb.com/)
-- [jQuery](https://jquery.com/)
-- [Susy](http://susy.oddbird.net/)
-- [Breakpoint](http://breakpoint-sass.com/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [FitVids.JS](http://fitvidsjs.com/)
-- Greedy Navigation - [lukejacksonn](https://codepen.io/lukejacksonn/pen/PwmwWV)
-- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
-- [Lunr](http://lunrjs.com)
+This blog is built with [Jekyll](https://jekyllrb.com/docs/themes/) using the [Minimal mistakes](https://mmistakes.github.io/minimal-mistakes/) theme which I heavily tweaked and write about as well:
 
----
+* [How to remove the excerpt from recent posts in a minimal mistakes blog](https://www.janmeppe.com/blog/how-to-remove-excerpt-from-archive-item/)
+* [How to change size of blog posts](https://www.janmeppe.com/blog/personal-blog-minimal-mistakes/)
+* [How to add a favicon to minimal mistakes](https://www.janmeppe.com/blog/personal-blog-minimal-mistakes/)
+* [How to add Latex to Minimal Mistakes](https://www.janmeppe.com/blog/How-to-add-mathjax-to-minimal-mistakes/)
+* [How to change Jekyll theme to Minimal Mistakes](https://www.janmeppe.com/blog/how-to-change-theme-to-minimal-mistakes/)
+* [How to add a teaser image to minimal mistakes](https://www.janmeppe.com/blog/add-teaser-to-minimal-mistakes/)
+* [How to add a splash image to minimal mistakes](https://www.janmeppe.com/blog/how-to-add-splash-to-minimal-mistakes/)
 
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
+I am passionate about helping others you can view some of my tutorials:
 
+* [Regex For Noobs (like me!) - An Illustrated Guide](https://www.janmeppe.com/blog/regex-for-noobs/)
+* [How to add a new kernel to your Jupyter Notebook](https://www.janmeppe.com/blog/how-to-add-new-kernel-in-jupyter-notebook/)
+* [How to add a splash image to minimal mistakes](https://www.janmeppe.com/blog/how-to-add-splash-to-minimal-mistakes/)
+
+I studied econometrics (financial engineering) with a focus on machine learning
+applications in the finance domain in Amsterdam: 
+
+* MPhil in (Advanced) Econometrics from the [Tinbergen Institute](https://www.tinbergen.nl/home)
+* MSc in Econometrics from the [University of Amsterdam](https://www.uva.nl/en)
+* BSc in Econometrics from the [University of Amsterdam](https://www.uva.nl/en)
+
+Find me on:
+
+* Tweet me on [Twitter](https://twitter.com/Janmeppe)
+* Send me a PR on [Github](https://github.com/rainymood)
+* Slide in my DMs on [Instagram](https://www.instagram.com/janmeppe/)
+* Read my newsletter on [Substack](https://janmeppe.substack.com)
