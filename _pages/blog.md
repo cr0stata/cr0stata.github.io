@@ -1,6 +1,7 @@
 ---
 layout: posts
 permalink: /blog/
+title: "blog_"
 ---
 
 Hi! 👋🏼 🚀

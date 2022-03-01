@@ -1,6 +1,7 @@
 ---
 layout: posts
 permalink: /about/
+tile: "about_"
 toc: true
 author_profile: true
 ---
