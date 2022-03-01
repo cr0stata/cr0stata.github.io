@@ -8,23 +8,7 @@ Minimal Mistakes is a flexible two-column Jekyll theme, with which I built my fi
 
 The whole open-source project is available [here](https://github.com/mmistakes/minimal-mistakes).
 
-
-
-**If you enjoy this theme, please consider support @mmistakes :** 
-
-[!["Buy him a coffee!"](https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png)](https://www.buymeacoffee.com/mmistakes)
- [![Support him via PayPal!](https://cdn.jsdelivr.net/gh/twolfson/paypal-github-button@1.0.0/dist/button.svg)](https://www.paypal.me/mmistakes)
-
-**Note:** The theme uses the [jekyll-include-cache](https://github.com/benbalter/jekyll-include-cache) plugin which will need to be installed in your `Gemfile` and must be retained in the `plugins` array of `_config.yml`. Otherwise you'll encounter `Unknown tag 'include_cached'` errors at build.
-
-[![Minimal Mistakes live preview][2]][1]
-
-[1]: https://mmistakes.github.io/minimal-mistakes/
-[2]: screenshot.png (live preview)
-
-![layout examples](screenshot-layouts.png)
-
----
+**If you enjoy this theme, please consider support @mmistakes** 
 
 ## Credits
 
@@ -36,8 +20,8 @@ The whole open-source project is available [here](https://github.com/mmistakes/m
 - <https://twitter.com/mmistakes>
 - <https://github.com/mmistakes>
 
-## License
+**License**
 
 The MIT License (MIT)
-Copyright (c) 2013-2020 Michael Rose and contributors. 
+Copyright (c) 2013-2022 Michael Rose and contributors. 
 For more information, see [here](https://github.com/mmistakes/minimal-mistakes).
