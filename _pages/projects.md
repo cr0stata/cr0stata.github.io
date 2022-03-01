@@ -1,7 +1,6 @@
 ---
 layout: single
 permalink: /projects/
-# title: "Data Science Projects"
 author_profile: true
 ---
 

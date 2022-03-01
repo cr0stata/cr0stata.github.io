@@ -7,6 +7,6 @@ excerpt: >
   A <code>miscellaneous</code> file site of what I do in my life.
 header:
   # overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.png
+  overlay_image: /assets/images/landing.png
 ---
 

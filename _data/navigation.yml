@@ -6,8 +6,6 @@ main:
     url: /projects/
   - title: "about"
     url: /about/
-  - title: "prova"
-    url: /prova/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
