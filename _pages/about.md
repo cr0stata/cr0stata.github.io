@@ -7,4 +7,4 @@ excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 toc: true
 ---
 
-Qui inserirò un mini resume.
+Qui inserirò un mini resume! 
