@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /
+permalink: /blog/
 hidden: true
 excerpt: >
   An aerospace engineer with an applied math mask. <br>
