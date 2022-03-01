@@ -9,7 +9,7 @@ excerpt: >
   A list of my public projects
 ---
 # [Cavitation-Induced Flow Instabilities Identification](/blog/post-future-date)
-The main work I'm focusing on. Using bayesian identifcations and MLE in cavitating inducers for rocket engines.
+The main work I'm focusing on. Using bayesian identifcations and MLE in cavitating inducers for rocket engines. asd
 
 # [Stochastic Finite-Time Lyapunov Exponentss]()
 The second main task. Using the chaos theory to perform uncertainty propagation in dynamical systems.
