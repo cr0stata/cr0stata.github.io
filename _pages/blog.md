@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: archive
 permalink: /blog/
 title: "blog_"
 toc: true
