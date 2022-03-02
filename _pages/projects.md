@@ -16,7 +16,7 @@ Using bayesian identifcations and MLE in cavitating flows in inducers for rocket
 The second main task.  
 Using the chaos theory to perform uncertainty propagation in dynamical systems.
 
-## [Pre-Phase A - Microsatellites Constellation for Global Ship Monitoring](https://cr0stata.github.io/nemo/)
+## [Microsatellites Constellation for Global Ship Monitoring (Phase 0)](https://cr0stata.github.io/nemo/)
 An amazing past project.  
 An ESA-like university <em>concurrent engineering</em> project focused in a constellation for global ship monitoring.
 
