@@ -9,7 +9,8 @@ excerpt: >
   A list of my public projects
 ---
 ## [Cavitation-Induced Flow Instabilities Identification](https://cr0stata.github.io/work1/)
-The main work I'm focusing on. Using bayesian identifcations and MLE in cavitating flows in inducers for rocket engines.
+The main work I'm focusing on.  
+Using bayesian identifcations and MLE in cavitating flows in inducers for rocket engines.
 
 ## [Stochastic Finite-Time Lyapunov Exponents]()
 The second main task. Using the chaos theory to perform uncertainty propagation in dynamical systems.
