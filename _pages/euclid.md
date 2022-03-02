@@ -4,8 +4,7 @@ title: "Euclid: Payload and Service Module Structural Analysis"
 permalink: /euclid/
 classes: wide
 # date: 2021-05-21
-categories:
-  - blog
+
 toc: false
 toc_sticky: false
 tags:

@@ -4,8 +4,6 @@ title: "Pre-Phase A - Microsatellites Constellation for Global Ship Monitoring"
 permalink: /nemo/
 classes: wide
 # date: 2021-05-21
-categories:
-  - blog
 toc: false
 toc_sticky: false
 tags:

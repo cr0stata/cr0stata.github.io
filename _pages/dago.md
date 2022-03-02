@@ -4,8 +4,6 @@ title: "Cavitation-Induced Flow Instabilities Identification"
 permalink: /work1/
 # date: 2021-05-21
 classes: wide
-categories:
-  - blog
 toc: false
 toc_sticky: false
 tags:
