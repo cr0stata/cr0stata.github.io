@@ -20,5 +20,5 @@ Using the chaos theory to perform uncertainty propagation in dynamical systems.
 An amazing past project.  
 An ESA-like university <em>concurrent engineering</em> project focused in a constellation for global ship monitoring.
 
-## [Euclid: Payload and Service Module Structural Analysis]((https://cr0stata.github.io/euclid/))
+## [Euclid: Payload and Service Module Structural Analysis](https://cr0stata.github.io/euclid/)
 Another amazing past project.

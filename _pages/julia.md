@@ -13,6 +13,6 @@ tags:
   - julia
 author_profile: true
 ---
-![These bubbles are beautiful!](/assets/images/julia1.png)
+![These bubbles are beautiful!](/assets/images/julia1.jpg)
 
 Updates soon!
