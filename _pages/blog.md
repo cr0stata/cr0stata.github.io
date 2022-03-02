@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 permalink: /blog/
 title: "blog_"
 toc: true

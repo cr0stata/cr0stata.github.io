@@ -1,6 +1,6 @@
 ---
-layout: default
-permalink: /blog/
+layout: archive
+permalink: /about/
 title: "blog_"
 author_profile: true
 toc: true
