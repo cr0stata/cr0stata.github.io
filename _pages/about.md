@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /about/
-title: "blog_"
+title: "about_"
 author_profile: true
 toc: true
 ---
