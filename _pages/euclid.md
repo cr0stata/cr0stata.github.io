@@ -9,8 +9,8 @@ categories:
 toc: false
 toc_sticky: false
 tags:
-  - dynamical systems
-  - julia
+  - fem
+  - euclid
 author_profile: true
 ---
 ![These bubbles are beautiful!](/assets/images/proj4.png)
