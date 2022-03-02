@@ -1,5 +1,7 @@
 ---
-title: "How to remove the excerpt from recent posts in a minimal mistakes blog" 
+layout: archive
+title: "Cavitation-Induced Flow Instabilities Identification" 
+permalink: /work1/
 # date: 2021-05-21
 categories:
   - blog
@@ -10,5 +12,7 @@ tags:
   - bayesian estimation
 header:
   teaser: "assets/image/proj1.png"
+author_profile: true
 ---
+asdasd
 
