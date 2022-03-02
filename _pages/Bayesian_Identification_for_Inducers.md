@@ -14,5 +14,6 @@ header:
   teaser: "assets/image/proj1.png"
 author_profile: true
 ---
-asdasd
-
+Questa è solo una prova
+![These bubbles are beautiful!](/assets/images/proj1.png "prova")
+ed anche questa 
