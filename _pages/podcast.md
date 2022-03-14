@@ -23,6 +23,9 @@ Here, I will post some news and links related to it.
 
 The podcast is available, through [Anchor.fm](https://anchor.fm/stardust-podcast), in more than seven different podcast platforms.
 
+<a href="https://www.youtube.com/watch?v=aBsqh9t2uOw&list=PLQIbxjHCZG-BUTCC5tdGUjtx23EQGebAw">
+  <img src="/assets/images/p_logo/yt.png" alt="YT" style="height: 50px; width:50px;"/>
+</a>
 <a href="https://open.spotify.com/show/5sEto8EKtIeEC4QkgBYmPi?si=1e3e0a84c0f0406c">
   <img src="/assets/images/p_logo/spotlogo.png" alt="spotify" style="height: 50px; width:50px;"/>
 </a>
