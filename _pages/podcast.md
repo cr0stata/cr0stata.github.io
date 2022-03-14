@@ -3,7 +3,7 @@ layout: splash
 permalink: /podcast/
 hidden: true
 header:
-  overlay_image: /assets/images/ed1.JPEG 
+  overlay_image: /assets/images/ed1.jpg
   # overlay_color: "#5e616c"
 excerpt: >
   Stardust Podcast
