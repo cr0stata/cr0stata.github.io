@@ -1,6 +1,5 @@
 ---
 permalink: /podcast/
-hidden: true
 title: "Layout: Header Image (Vertical)"
 header:
   image: /assets/images/ed1.jpg
