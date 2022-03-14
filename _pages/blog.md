@@ -1,6 +1,6 @@
 ---
 layout: posts
 permalink: /blog/
-title: "blog_"
+# title: "blog_"
 toc: true
 ---
