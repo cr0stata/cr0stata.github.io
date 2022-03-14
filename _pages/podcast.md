@@ -21,7 +21,7 @@ header:
 I am the account manager of Stardust Podcast. A research podcast.  
 Here, I will post some news and links related to it.
 
-The podcast is available, through [Anchor.fm](https://anchor.fm/stardust-podcast), in more than seven different podcast platforms.
+The podcast is available, mainly thanks to [Anchor.fm](https://anchor.fm/stardust-podcast), in more than seven different podcast platforms.
 
 <a href="https://www.youtube.com/watch?v=aBsqh9t2uOw&list=PLQIbxjHCZG-BUTCC5tdGUjtx23EQGebAw">
   <img src="/assets/images/p_logo/yt.png" alt="YT" style="height: 50px; width:50px;"/>

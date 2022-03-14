@@ -4,7 +4,8 @@ permalink: /projects/
 hidden: true
 title: projects_
 header:
-  overlay_color: "#5e616c"
+  overlay_image: "assets/images/cassini.jpg"
+  caption: "Photo credit: [**MacRebisz**](https://www.deviantart.com/macrebisz)"
 excerpt: >
   A list of my public projects
 ---
