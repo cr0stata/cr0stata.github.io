@@ -4,7 +4,7 @@ permalink: /podcast/
 hidden: true
 title: projects_
 header:
-  overlay_image: /assets/images/ed1.png 
+  overlay_image: /assets/images/ed1.JPEG 
   # overlay_color: "#5e616c"
 excerpt: >
   Stardust Podcast
