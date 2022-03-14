@@ -23,6 +23,6 @@ The podcast is available, through [Anchor.fm](https://anchor.fm/stardust-podcast
 <img src="/assets/images/g_pod.png" alt="g_pod" style="height: 50px; width:50px;"/>
 </a>
 <a href="https://castbox.fm/channel/Stardust-Podcast-id4802079?country=us">
-<img src="/assets/images/castlogo.png" alt="castbox" style="height: 50px; width:50px;"/>
+<img src="/assets/images/unnamed.png" alt="castbox" style="height: 50px; width:50px;"/>
 </a>
 
