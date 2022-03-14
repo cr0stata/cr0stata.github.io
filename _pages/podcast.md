@@ -2,7 +2,7 @@
 layout: splash
 permalink: /podcast/
 hidden: true
-title: projects_
+# title: projects_
 header:
   overlay_image: /assets/images/ed1.JPEG 
   # overlay_color: "#5e616c"
