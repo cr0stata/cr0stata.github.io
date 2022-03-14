@@ -1,12 +1,21 @@
 ---
-layout: splash
 permalink: /podcast/
 hidden: true
+title: "Layout: Header Image (Vertical)"
 header:
-  overlay_image: /assets/images/ed1.jpg
-  # overlay_color: "#5e616c"
-excerpt: >
-  Stardust Podcast
+  image: /assets/images/ed1.jpg
+  caption: "Photo credit: [**Ed Belbruno**](https://www.edbelbruno.com)"
+# categories:
+#   - Layout
+#   - Uncategorized
+# tags:
+#   - edge case
+#   - featured image
+#   - image
+#   - layout
+author_profile: false
+related: false
+share: false
 ---
 I am the account manager of Stardust Podcast. A research podcast. 
 Here, I will post some news and links related to it.
