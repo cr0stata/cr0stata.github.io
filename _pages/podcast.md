@@ -1,8 +1,9 @@
 ---
 permalink: /podcast/
+layout: splash
 title: "Layout: Header Image (Vertical)"
 header:
-  image: /assets/images/ed1.jpg
+  image: /assets/images/ed1.jpeg
   caption: "Photo credit: [**Ed Belbruno**](https://www.edbelbruno.com)"
 # categories:
 #   - Layout
@@ -12,11 +13,12 @@ header:
 #   - featured image
 #   - image
 #   - layout
-author_profile: false
-related: false
-share: false
+# author_profile: false
+# related: false
+# share: false
 ---
-I am the account manager of Stardust Podcast. A research podcast. 
+# Stardust Podcast  
+I am the account manager of Stardust Podcast. A research podcast.  
 Here, I will post some news and links related to it.
 
 The podcast is available, through [Anchor.fm](https://anchor.fm/stardust-podcast), in more than seven different podcast platforms.
@@ -42,3 +44,6 @@ The podcast is available, through [Anchor.fm](https://anchor.fm/stardust-podcast
 <a href="https://www.stitcher.com/podcast/stardust-podcast">
   <img src="/assets/images/p_logo/stitcher.png" alt="stit" style="height: 50px; width:50px;"/> 
 </a>
+
+### [HOT!] New episode!
+14-03-2022 A new episode with Yves Hilpish is coming!
