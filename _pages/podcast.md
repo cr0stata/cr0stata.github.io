@@ -2,7 +2,7 @@
 layout: splash
 permalink: /podcast/
 hidden: true
-# title: projects_
+title: 
 header:
   overlay_image: /assets/images/ed1.JPEG 
   # overlay_color: "#5e616c"
@@ -12,6 +12,5 @@ excerpt: >
 I am the account manager of Stardust Podcast. A research podcast. 
 Here, I will post some news and links related to it.
 
-# [Cavitation-Induced Flow Instabilities Identification](https://cr0stata.github.io/work1/)
-The main work I'm focusing on.  
-Using bayesian identifcations and MLE in cavitating flows in inducers for rocket engines.
+The podcast is available, through [Anchor.fm](https://anchor.fm/stardust-podcast), in nine podcast platform.
+<img src="/assets/img/prova.png" alt="prova" style="height: 100px; width:100px;"/>
