@@ -49,4 +49,7 @@ The podcast is available, mainly thanks to [Anchor.fm](https://anchor.fm/stardus
 </a>
 
 ### [HOT!] New episode!
-14-03-2022 A new episode with Yves Hilpish is coming!
+A new episode with Miles Cranmer is coming!
+
+Check out the latest episodse with Yves J. Hilpish! [Anchor](https://anchor.fm/stardust-podcast/episodes/The-Stardust-Podcast-20---Yves-J--Hilpisch-e1frmli) - [Youtube](https://www.youtube.com/watch?v=hpDFefihy88&t=190s) 
+
