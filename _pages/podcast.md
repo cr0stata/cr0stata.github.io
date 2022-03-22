@@ -49,4 +49,4 @@ The podcast is available, mainly thanks to [Anchor.fm](https://anchor.fm/stardus
 </a>
 
 ### [HOT!] New episodes!  
-Check out the latest episodes with [Yves J. Hilpish](https://home.tpq.io/hilpisch/) [Anchor](https://anchor.fm/stardust-podcast/episodes/The-Stardust-Podcast-20---Yves-J--Hilpisch-e1frmli) - [Youtube](https://www.youtube.com/watch?v=hpDFefihy88&t=190s) and [Miles Cranmer](https://twitter.com/MilesCranmer?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) [Anchor](https://anchor.fm/stardust-podcast/episodes/The-Stardust-Podcast-21---Miles-Cranmer-e1ftadp) - [Youtube](https://www.youtube.com/watch?v=XaAuUIl3Xug&t=112s)
+Check out the latest episodes with [Yves J. Hilpish](https://home.tpq.io/hilpisch/) \[[Anchor](https://anchor.fm/stardust-podcast/episodes/The-Stardust-Podcast-20---Yves-J--Hilpisch-e1frmli) - [Youtube](https://www.youtube.com/watch?v=hpDFefihy88&t=190s) \] and [Miles Cranmer](https://twitter.com/MilesCranmer?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) [Anchor](https://anchor.fm/stardust-podcast/episodes/The-Stardust-Podcast-21---Miles-Cranmer-e1ftadp) - [Youtube](https://www.youtube.com/watch?v=XaAuUIl3Xug&t=112s)
