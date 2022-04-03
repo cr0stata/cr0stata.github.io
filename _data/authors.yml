@@ -1,0 +1,19 @@
+Stefano Guidolotti:
+  name        : "John Frusciante"
+  bio         : "How do you pronounce Frusciante?"
+  location    : "Los Angeles, CA"
+  avatar      : "/assets/images/bio-photo-jf.jpg"
+  twitter     : "@JohnFrusciante" # used for meta twitter:creator
+  links:
+    - label: "Facebook"
+      icon: "lab la-facebook-f"
+      url: "https://www.facebook.com/Johnfrusciante"
+    - label: "Twitter"
+      icon: "lab la-twitter"
+      url: "https://twitter.com/johnfrusciante"
+    - label: "Tumblr"
+      icon: "lab la-tumblr"
+      url: "https://jfrusciantesite.tumblr.com/"
+    - label: "Soundcloud"
+      icon: "lab la-soundcloud"
+      url: "https://soundcloud.com/johnfrusciante-music"
