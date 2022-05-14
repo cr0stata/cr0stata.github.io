@@ -8,4 +8,6 @@ main:
     url: /podcast/
   - title: "about"
     url: /about/
+  - title: "testing"
+    url: /testing/
  
