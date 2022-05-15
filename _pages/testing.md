@@ -16,11 +16,12 @@ Enjoy!
     <title>Opencv JS</title>
     <script async src="../assets/js/opencv/opencv.js" onload="openCvReady();"></script>
     <script src="../assets/js/opencv/utils.js"></script>
-</head>
+
 <body>
-    <video id="cam_input" height="480" width="640"></video>
+    <video  id="cam_input" height="480" width="640"></video>
     <canvas id="canvas_output"></canvas>
 </body>
+
 <script type="text/JavaScript">
 function openCvReady() {
   cv['onRuntimeInitialized']=()=>{
@@ -72,4 +73,17 @@ setTimeout(processVideo, 0);
   };
 }
 </script>
+<script type="application/javascript">
+function draw() {
+  var ctx = document.getElementById('tutorial').getContext('2d');
+  ctx.font = '24px serif';
+  ctx.fillText("prova", 10, 50);
+}
+</script>
+
+<body onload="draw();">
+   <canvas id="tutorial" width="300" height="150"></canvas>
+ </body>
+
+</head>
 </html>
