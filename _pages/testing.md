@@ -2,7 +2,13 @@
 layout: archive
 permalink: /testing/
 ---
-hello! Here you'll find a stealth project that use opencv integrated with HTML. Enjoy!
+hello! 
+
+Here you'll find a stealth project that use [OpenCV](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj4kIqdleH3AhVxh_0HHePwCSYQFnoECBEQAQ&url=https%3A%2F%2Fopencv.org%2F&usg=AOvVaw0nLWFztJIlbNMAYoheT9Qm) integrated with HTML. 
+
+Enjoy!
+
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
