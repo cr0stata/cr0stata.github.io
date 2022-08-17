@@ -1,7 +1,7 @@
 ---
 title: "random links"
 layout: "splash"
-permalink: "/randomlinks"
+permalink: "/randomlinks/"
 related: false
 share: false
 categories:

@@ -1,7 +1,7 @@
 ---
 title: "wiki backlogs"
 layout: "splash"
-permalink: "/wikibacklogs"
+permalink: "/wikibacklogs/"
 related: false
 share: false
 categories:
