@@ -10,5 +10,5 @@ header:
 ---
 After 384 backlog tabs accurately stored in my iPhone (approximately 30gb system data), I decided to create -once refined- two useless bullet lists splitting wiki and other things.  
 
-* [wiki backlogs](/wikibacklogs/)
-* [random things](/randomlinks/)
+* [wiki backlogs](https://cr0stata.github.io/wikibacklogs/)
+* [random things](https://cr0stata.github.io/randomlinks/)
