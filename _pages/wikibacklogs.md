@@ -33,8 +33,8 @@ categories:
 <sub> 21. [Popov Criterion](https://en.wikipedia.org/wiki/Popov_criterion) </sub>  
 <sub> 22. [Cognitive Bias Codex](https://commons.wikimedia.org/wiki/File:Cognitive_Bias_Codex_-_180%2B_biases,_designed_by_John_Manoogian_III_(jm3).jpg) * </sub>  
 <sub> 23. [Spaced Repetion](https://en.wikipedia.org/wiki/Spaced_repetition) * </sub>  
-<sub> 24. [Simplified perturbations models](https://en.wikipedia.org/wiki/Simplified_perturbations_models)</sub>
-<sub> 25. [Radon trasform](https://en.wikipedia.org/wiki/Radon_transform)</sub>
-<sub> 26. [NFS](https://en.wikipedia.org/wiki/Network_File_System) </sub>
+<sub> 24. [Simplified perturbations models](https://en.wikipedia.org/wiki/Simplified_perturbations_models)</sub>  
+<sub> 25. [Radon trasform](https://en.wikipedia.org/wiki/Radon_transform)</sub>  
+<sub> 26. [NFS](https://en.wikipedia.org/wiki/Network_File_System) </sub>  
 
 
