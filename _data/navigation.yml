@@ -1,13 +1,16 @@
 # main links
 main:
-  - title: "blog"
-    url: /blog/
+  
   - title: "projects"
     url: /projects/
   - title: "podcast"
     url: /podcast/
-  - title: "about"
-    url: /about/
+  - title: "blog"
+    url: /blog/
+  - title: "backlog links"
+    url: /links/
   - title: "testing"
     url: /testing/
+  - title: "about"
+    url: /about/
  
