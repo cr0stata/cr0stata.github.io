@@ -4,8 +4,7 @@ layout: splash
 
 # hidden: true
 header:
-  image: /assets/images/landing.jpg
-  caption: "Photo credit: [**Ed Belbruno**](https://www.edbelbruno.com)"
+  image: /assets/images/mondrian.jpg
   title: "hi, I'm cr0stata"
   
 # categories:
