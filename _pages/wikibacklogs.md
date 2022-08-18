@@ -1,15 +1,11 @@
 ---
-title: "wiki backlogs"
-layout: "splash"
+layout: single
 permalink: "/wikibacklogs/"
 related: false
 share: false
 categories:
-  - blog
   - wiki links
 ---
-<br />
-
 <sub> 1.  [Optimal transport](https://en.wikipedia.org/wiki/Transportation_theory_(mathematics)) </sub>  
 <sub> 2.  [Baron Zemo](https://en.wikipedia.org/wiki/Baron_Zemo) </sub>  
 <sub> 3.  [Ephemeris](https://en.wikipedia.org/wiki/Ephemeris) </sub>  

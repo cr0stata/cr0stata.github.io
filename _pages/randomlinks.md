@@ -1,15 +1,11 @@
 ---
-title: "random links"
-layout: "splash"
+layout: 
 permalink: "/randomlinks/"
 related: false
 share: false
 categories:
-  - blog
-  - wiki links
+  - random links
 ---
-<br />
-
 <sub> 1.  [Bandersnatch solution](https://www.blogrebellen.de/wp-content/uploads/2018/12/Bandersnatch-flowchart.jpg?_gl=1*1y5dkvk*_ga*YW1wLTAydFdQd242M0hXOEhxM2Q1Ul9vaUo1RUl6Q2FwSjVpMXpiV0NwaTA3Si1IaTNjRTJsZW9fU21aY05fWFZiTlQ) </sub>  
 <sub> 2.  [A deep dive into an amateur rocketry flight computer](https://shanetully.com/2016/07/inside-the-construction-of-an-amateur-rocketry-flight-computer/) </sub>  
 <sub> 3.  [Problem solving repo](https://www.oliforum.it/viewtopic.php?f=26&t=3489) (ita, with a particular focus on  mathematical olympiad) </sub>  
