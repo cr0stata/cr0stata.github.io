@@ -23,3 +23,5 @@ An ESA-like university <em>concurrent engineering</em> project focused in a cons
 
 # [Euclid: Payload and Service Module Structural Analysis](https://cr0stata.github.io/euclid/)
 Another amazing past project.
+
+[comment]: <> (ADD 3D JS OF EUCLID!)

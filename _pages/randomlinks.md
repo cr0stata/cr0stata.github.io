@@ -38,8 +38,10 @@ categories:
 <sub> 26. [On monad citation](https://stackoverflow.com/questions/3870088/a-monad-is-just-a-monoid-in-the-category-of-endofunctors-whats-the-problem) </sub>  
 <sub> 27. [SLS reference guide](https://www.nasa.gov/exploration/systems/sls/reference_guide.html?utm_source=FBPAGE&utm_medium=NASA%27s+Space+Launch+System&utm_campaign=NASASocial&linkId=154780767&fbclid=IwAR2bD7Sun_tytwrdtmwgPqtR-X5ZA9JLotLfBU_HSQsAgsTynOsJGUrjhNc) </sub>  
 <sub> 28. [CelesTrak](https://celestrak.org) </sub>  
-<sub> 29. [Ergodic hypothesis](http://science-memo.blogspot.com/2014/05/is-ergodicity-reasonable-hypothesis.html?m=1) </sub>  
-
-
-
-
+<sub> 29. [Ergodic hypothesis](http://science-memo.blogspot.com/2014/05/is-ergodicity-reasonable-hypothesis.html?m=1) </sub>     
+<sub> 30. [Ed Snowden blog](https://edwardsnowden.substack.com)</sub>  
+<sub> 31. [CFD direct](https://cfd.direct/openfoam-training/) </sub>  
+<sub> 32. [CS50x](https://cs50.harvard.edu/x/2022/) </sub>  
+<sub> 33. [The psychology of money](https://www.collaborativefund.com/blog/the-psychology-of-money/) </sub>  
+<sub> 34. [Centre Pompidou](https://www.centrepompidou.fr/en/visit/interactive-map?floor=5) </sub>  
+<sub> 35. [The making of a New Kind of Science](https://writings.stephenwolfram.com/2022/05/the-making-of-a-new-kind-of-science/) </sub>  

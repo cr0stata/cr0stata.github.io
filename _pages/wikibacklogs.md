@@ -34,7 +34,9 @@ categories:
 <sub> 22. [Cognitive Bias Codex](https://commons.wikimedia.org/wiki/File:Cognitive_Bias_Codex_-_180%2B_biases,_designed_by_John_Manoogian_III_(jm3).jpg) * </sub>  
 <sub> 23. [Spaced Repetion](https://en.wikipedia.org/wiki/Spaced_repetition) * </sub>  
 <sub> 24. [Simplified perturbations models](https://en.wikipedia.org/wiki/Simplified_perturbations_models)</sub>  
-<sub> 25. [Radon trasform](https://en.wikipedia.org/wiki/Radon_transform)</sub>  
+<sub> 25. [Radon trasform](https://en.wikipedia.org/wiki/Radon_transform)</sub>   
 <sub> 26. [NFS](https://en.wikipedia.org/wiki/Network_File_System) </sub>  
-
-
+<sub> 27. [George Hotz](https://en.wikipedia.org/wiki/George_Hotz) </sub>  
+<sub> 28. [liminf-limsup](https://en.wikipedia.org/wiki/Limit_inferior_and_limit_superior) </sub>  
+<sub> 29. [Robert Jordan](https://en.wikipedia.org/wiki/Robert_Jordan) </sub>  
+<sub> 30. [Samuel Taylor Coleridge](https://en.wikipedia.org/wiki/Samuel_Taylor_Coleridge) </sub>
