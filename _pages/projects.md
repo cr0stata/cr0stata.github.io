@@ -17,7 +17,7 @@ Using bayesian identifcations and MLE to catch the main characteristics of the u
 Developed Julia code to extract chaos indicators (e.g. FTLE) from some of the most popular [chaotic maps](https://en.wikipedia.org/wiki/List_of_chaotic_maps). 
 
 #### [Microsatellites constellation for Global Ship Monitoring (Phase 0)]()
-An ESA-like university <em>concurrent engineering</em> project focused in a constellation for global ship monitoring.
+A <em> concurrent engineering </em> university project (ESA-like) focused on a satellite constellation for global ship monitoring.
 
 #### [Euclid: Payload and Service Module Structural Analysis]()
 Structural and mechanical study of [Euclid](https://www.euclid-ec.org), an ESA medium class astronomy and astrophysics space mission, aimed to understand why the expansion of the Universe is accelerating.
