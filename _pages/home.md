@@ -34,4 +34,4 @@ header:
 --- -->
 ## hi, I'm Cr0stata
 An aerospace engineer with an applied math mask.  
-A <code>miscellaneous</code> file site of what I do in my life.
+A <code>miscellaneous</code> website of what I do in my life.
