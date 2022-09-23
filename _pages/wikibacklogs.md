@@ -35,6 +35,6 @@ categories:
 <sub> 27. [George Hotz](https://en.wikipedia.org/wiki/George_Hotz) </sub>  
 <sub> 28. [liminf-limsup](https://en.wikipedia.org/wiki/Limit_inferior_and_limit_superior) </sub>  
 <sub> 29. [Robert Jordan](https://en.wikipedia.org/wiki/Robert_Jordan) </sub>  
-<sub> 30. [Samuel Taylor Coleridge](https://en.wikipedia.org/wiki/Samuel_Taylor_Coleridge) </sub>
-<sub> 31. [Halting Problem](https://en.wikipedia.org/wiki/Halting_problem) </sub>
+<sub> 30. [Samuel Taylor Coleridge](https://en.wikipedia.org/wiki/Samuel_Taylor_Coleridge) </sub>  
+<sub> 31. [Halting Problem](https://en.wikipedia.org/wiki/Halting_problem) </sub>  
 <sub> 32.[Dyson Sphere](https://en.wikipedia.org/wiki/Dyson_sphere) </sub>
