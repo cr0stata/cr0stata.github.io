@@ -4,12 +4,6 @@ layout: splash
 
 hidden: true
 excerpt: >
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
   Hi! I am Stefano!
 header:
   overlay_image: /assets/images/mondrian.jpg
