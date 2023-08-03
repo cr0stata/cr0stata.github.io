@@ -2,10 +2,17 @@
 permalink: /
 layout: splash
 
-# hidden: true
+hidden: true
+excerpt: >
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  Hi! I am Stefano!
 header:
-  image: /assets/images/mondrian.jpg
-  title: "hi, I'm cr0stata"
+  overlay_image: /assets/images/mondrian.jpg
   
 # categories:
 #   - Layout
@@ -32,7 +39,8 @@ header:
   # overlay_color: "#5e616c"
   overlay_image: /assets/images/landing.png
 --- -->
-## hi, I'm Cr0stata
+
+# hi, I'm Stefano! 
 An aerospace engineer with an applied math mask.  
 A <code>miscellaneous</code> website of what I do in my life.
 

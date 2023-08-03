@@ -16,17 +16,20 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "cr0stata Home"
+title                    : " <br>
+                             <br>
+                             <br>
+                             Stefano Guidolotti "
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : TESTTEST
 name                     : "cr0stata"
 description              : "An aerospace engineer with an applied math mask"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : wwww.stefanoguidolotti.com
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/crostata.png"
-masthead_title           : "a nerd-research site"
+masthead_title           : "Stefano Guidolotti"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -117,12 +120,13 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/cr0stata"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/stefano-guidolotti/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/cr0stata"
+   
 
 
 # Reading Files
