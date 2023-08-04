@@ -16,15 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : " <br>
-                             <br>
-                             <br>
-                             <br>
-                             <br>
-                             <br>
-                             <br>
-                             test
-"
+title                    : "Stefano Guidolotti"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "cr0stata"
@@ -212,7 +204,8 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-
+  - jemoji
+  
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate

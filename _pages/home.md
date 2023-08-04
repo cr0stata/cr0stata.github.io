@@ -1,12 +1,10 @@
 ---
 permalink: /
 layout: splash
-
 hidden: true
-excerpt: >
-  Hi! I am Stefano!
+author_profile: true
 header:
-  overlay_image: /assets/images/mondrian.jpg
+  image: /assets/images/mondrian.jpeg
   
 # categories:
 #   - Layout
@@ -33,9 +31,7 @@ header:
   # overlay_color: "#5e616c"
   overlay_image: /assets/images/landing.png
 --- -->
+## Welcome! :wave:
 
-# hi, I'm Stefano! 
-An aerospace engineer with an applied math mask.  
-A <code>miscellaneous</code> website of what I do in my life.
-
-Please note that the site still needs to be finished. Updates soon!
+I am Stefano Guidolotti, an aerospace research engineer with an applied math mask.  
+This is a <code>miscellaneous</code> website of what I do in my life.
