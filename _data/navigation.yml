@@ -1,17 +1,17 @@
 # main links
 main:
   
-  - title: "projects"
-    url: /projects/
-  - title: "podcast"
+  - title: "Research"
+    url: /research/
+  - title: "podcast"         #-> NFT
     url: /podcast/
-  - title: "blog"
+  - title: "blog"            #-> ABOUT ME
     url: /blog/
-  - title: "backlog links"
+  - title: "backlog links"   #-> ABOUT ME
     url: /links/
-  - title: "testing"
+  - title: "testing"         #-> RESEARCH
     url: /testing/
-  - title: "about"
+  - title: "About me"
     url: /about/
-  - title: "appn"
+  - title: "appn"            #-> ABOUT ME
     url: /appn/
