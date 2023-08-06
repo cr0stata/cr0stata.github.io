@@ -16,7 +16,7 @@ hidden: true
 Listed below are my research interests, which include both my main work but also my free time. 
   
 
-### [Aerospace](https://cr0stata.github.io/research/aerospace)  🚀
+### [Aerospace](../research/aerospace)  🚀
 My main field of research, focused in propulsion, system optimization, numerical analysis and machine learning.
 
 ### NFT collection and Poincaré Podcast 🔭 
