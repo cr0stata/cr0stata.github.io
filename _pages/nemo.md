@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Pre-Phase A - Microsatellites Constellation for Global Ship Monitoring" 
 permalink: /nemo/
 classes: wide
@@ -9,7 +9,7 @@ toc_sticky: false
 tags:
   - esa
   - microsatellites
-author_profile: true
+author_profile: false
 ---
 ![These bubbles are beautiful!](/assets/images/proj3.png)
 
