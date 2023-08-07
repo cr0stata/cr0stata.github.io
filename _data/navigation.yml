@@ -3,14 +3,12 @@ main:
   
   - title: "Research"
     url: /research/
-  - title: "podcast"         #-> NFT
-    url: /podcast/
+ # - title: "podcast"         #-> NFT
+ #   url: /podcast/
   - title: "blog"            #-> ABOUT ME
     url: /blog/
   - title: "backlog links"   #-> ABOUT ME
     url: /links/
-  - title: "testing"         #-> RESEARCH
-    url: /testing/
   - title: "About me"
     url: /about/
   - title: "appn"            #-> ABOUT ME
