@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /links/
+permalink: /research/testing/links/
 hidden: true
 ---
 
