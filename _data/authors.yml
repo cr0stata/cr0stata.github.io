@@ -2,7 +2,7 @@ Stefano Guidolotti:
   name        : "Stardust Podcast"  
   bio         : " "
   # location    : "Los Angeles, CA"
-  avatar      : "/assets/images/logo_p.png"
+  # avatar      : "/assets/images/logo_p.png"
   # twitter     : "@JohnFrusciante" # used for meta twitter:creator
   links:
     - label: "Home"

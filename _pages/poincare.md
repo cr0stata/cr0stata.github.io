@@ -1,24 +1,37 @@
 ---
-layout: single
-title: "Poincare Trajectories"
+layout: splash
 permalink: /research/poincare/
-author_profile: true
-author: Stefano Guidolotti
-toc: true
-toc_label: "Unique Title"
-toc_icon: "heart"  
+gallery1:
+  - image_path: /assets/images/nftcollection/authors.png
+    alt: "placeholder image 1"
 ---
+<html lang="en">
+<br>
+</html>
+# Poincaré Trajectories 
+
+Founded by [Matteo Manzi](https://github.com/matteoettam09), Poincaré Trajectories aimed to develop software to solve problems at the level of methodological frameworks for both aerospace engineering and quantitative finance and was quickly acquired by [CrunchDAO](https://www.crunchdao.com).  
+
+Here, I was involved as a manager in the [Poincaré Podcast](https://open.spotify.com/show/5sEto8EKtIeEC4QkgBYmPi?si=8876c3938c1d40eb) and as a developer for a [Julia library](https://github.com/matteoettam09/FTLE.jl) in the context of coherent structures. Currently, for work reasons, the projects are currently on standby. 
+
+## Poincaré Podcast 🎙
+Inevitably inspired by greats like Lex Fridman, [Poincaré Podcast](https://open.spotify.com/show/5sEto8EKtIeEC4QkgBYmPi?si=8876c3938c1d40eb), which began with the idea of expanding authors' knowledge with a learn-in-public approach, was an interview-based show around topics such as machine learning, dynamical systems and data analysis.  [Here](../poincare/pp_list) you can find a list of the (amazing) guests.
+
+## Poincaré Trajectories - Digital Art Collection 🖼
+L'idea di creare un prodotto unico nel suo genere, grazie alla multidisciplinarità del team 
+
+{% include gallery id="gallery1" caption="This is a second gallery example with images hosted externally." %}
+
+
 
 Minimal Mistakes has been developed as a [Gem-based theme](http://jekyllrb.com/docs/themes/) for easier use, and 100% compatible with GitHub Pages when used as a remote theme.
 
 **If you enjoy this theme, please consider [sponsoring me](https://github.com/sponsors/mmistakes) to continue developing and maintaining it.**
 
-[!["Buy Me A Coffee"](https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png)](https://www.buymeacoffee.com/mmistakes)
 
-[![Support via PayPal](https://cdn.jsdelivr.net/gh/twolfson/paypal-github-button@1.0.0/dist/button.svg)](https://www.paypal.me/mmistakes)
-{: style="margin-top: 0.5em;"}
 
 ## Installing the theme
+
 
 If you're running Jekyll v3.7+ and self-hosting you can quickly install the theme as a Ruby gem.
 

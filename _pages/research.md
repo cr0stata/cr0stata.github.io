@@ -10,9 +10,9 @@ hidden: true
   # A list of my public projects
 ---
 <html lang="en">
-<br> <br>
-<font size="12"> Research </font>
+<br>
 </html>
+# Research
 Listed below are my research interests, which include both my main work but also my free time. 
   
 
@@ -21,7 +21,7 @@ My main field of research, focused in propulsion, optimization methods, numerica
 
 ### [Poincaré Podcast and NFT collection](../research/poincare) 🔭 
 Poincaré Trajectories was a interdisciplinary research <code>sandbox</code> about dynamical systems theory and related topics.  
-The interplay of the ideas of two aerospace engineers, a computer scientist and a musician resulted in an NFT collection that describes the synergies between music, art and mathematics.
+The interplay of the ideas of two aerospace engineers, a computer scientist and a musician resulted in a digital art collection describing the synergies between music, art and mathematics.
 
 ### [Testing](../research/testing) 🧑🏻‍💻
 Here you find my side projects.
