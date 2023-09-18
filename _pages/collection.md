@@ -22,7 +22,7 @@ Collectors are drawn to the uniqueness of each NFT, as no two are alike.
 
 Continuing to expand the collection with new mathematical concepts, together with the exploration of opportunities for real-world exhibitions to bridge the gap.
 
-{% include gallery id="gallery1" caption="Creators (From left to right: [Matteo](test), [Stefano](test), [Mattia], [David](test))." %}
+{% include gallery id="gallery1" caption="Creators (From left to right: [Matteo](https://www.linkedin.com/in/matteomanzi00seinfeldwasright/), [Stefano](https://www.linkedin.com/in/stefano-guidolotti/), [Mattia](https://www.linkedin.com/in/mattia-petrini/), [David](https://www.linkedin.com/in/david-quintarelli))." %}
 
 [comment]: <>  **Keys:**
 [comment]: <>  - Developed unique mathematical models, resulting in chaos indicators maps.
