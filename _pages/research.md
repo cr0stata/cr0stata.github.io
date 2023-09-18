@@ -16,7 +16,8 @@ hidden: true
 Listed below are my research interests, which include both my main work but also my free time. 
   
 
-### [Aerospace](../research/aerospace)  🚀
+### [Aerospace]()  🚀  
+[comment]: <> ../research/aerospace  
 My main field of research, focused in propulsion, optimization methods, numerical analysis and machine learning.
 
 ### [Poincaré Podcast and NFT collection](../research/poincare) 🔭 

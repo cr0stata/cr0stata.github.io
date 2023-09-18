@@ -1,13 +1,13 @@
 ---
-layout: archive
+layout: single
 permalink: /research/testing/opencv/
+toc: false
 ---
 hello! 
 
-Here you'll find a stealth project that use [OpenCV](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj4kIqdleH3AhVxh_0HHePwCSYQFnoECBEQAQ&url=https%3A%2F%2Fopencv.org%2F&usg=AOvVaw0nLWFztJIlbNMAYoheT9Qm) integrated with HTML. 
+Here you'll find an old project that use [OpenCV](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj4kIqdleH3AhVxh_0HHePwCSYQFnoECBEQAQ&url=https%3A%2F%2Fopencv.org%2F&usg=AOvVaw0nLWFztJIlbNMAYoheT9Qm) integrated in HTML. 
 
 Enjoy!
-
 
 <html lang="en">
 <head>
@@ -41,7 +41,7 @@ function openCvReady() {
     let faces = new cv.RectVector();
     let classifier = new cv.CascadeClassifier();
     let utils = new Utils('errorMessage');
-    let faceCascadeFile = '../haarcascade_default.xml'; // path to xml
+    let faceCascadeFile = '../../../haarcascade_default.xml'; // path to xml
     utils.createFileFromUrl(faceCascadeFile, faceCascadeFile, () => {
     classifier.load(faceCascadeFile); // in the callback, load the cascade from file 
 });
@@ -73,17 +73,6 @@ setTimeout(processVideo, 0);
   };
 }
 </script>
-<script type="application/javascript">
-function draw() {
-  var ctx = document.getElementById('tutorial').getContext('2d');
-  ctx.font = '24px serif';
-  ctx.fillText("prova", 10, 50);
-}
-</script>
-
-<body onload="draw();">
-   <canvas id="tutorial" width="300" height="150"></canvas>
- </body>
 
 </head>
 </html>
