@@ -19,6 +19,7 @@ Here, I was involved as a manager in the [Poincaré Podcast](https://open.spotif
 Inevitably inspired by greats like Lex Fridman, [Poincaré Podcast](https://open.spotify.com/show/5sEto8EKtIeEC4QkgBYmPi?si=8876c3938c1d40eb), which began with the idea of expanding authors' knowledge with a learn-in-public approach, was an interview-based show around topics such as machine learning, dynamical systems and data analysis.  [Here](../poincare/pp_list) you can find a list of the (amazing) guests.
 
 ## Poincaré Trajectories - Digital Art Collection 🖼
-A NFT collection that marries applied math, blockchain, and music into a single, captivating experience. 
 
-[Click here](../poincare/collection)
+An NFT collection that marries applied math, blockchain technology and music into a single, captivating experience. 
+
+[The Collection](../poincare/collection)
