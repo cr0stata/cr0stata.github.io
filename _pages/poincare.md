@@ -21,4 +21,4 @@ Inevitably inspired by greats like Lex Fridman, [Poincaré Podcast](https://open
 ## Poincaré Trajectories - Digital Art Collection 🖼
 A NFT collection that marries applied math, blockchain, and music into a single, captivating experience. 
 
-[Click here](../poincare/collection)
+[The Collection](../poincare/collection)
