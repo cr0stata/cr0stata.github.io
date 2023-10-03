@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: splashNFT
 header:
     image: /assets/images/collection.png
 
