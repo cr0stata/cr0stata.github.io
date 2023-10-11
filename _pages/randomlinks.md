@@ -41,4 +41,4 @@ categories:
 <sub> 33. [The psychology of money](https://www.collaborativefund.com/blog/the-psychology-of-money/) </sub>  
 <sub> 34. [Centre Pompidou](https://www.centrepompidou.fr/en/visit/interactive-map?floor=5) </sub>  
 <sub> 35. [The making of a New Kind of Science](https://writings.stephenwolfram.com/2022/05/the-making-of-a-new-kind-of-science/) </sub>  
-<sub> 36. [Randon in Lazio (Italy)](https://www.isinucleare.it/sites/default/files/contenuto_redazione_isin/ispra_e_arpa_lazio_2013_-_il_monitoraggio_del_gas_radon_nel_lazio._report_agenti_fisici_03.pdf) (ita) </sub>   
+<sub> 36. [Radon in Lazio (Italy)](https://www.isinucleare.it/sites/default/files/contenuto_redazione_isin/ispra_e_arpa_lazio_2013_-_il_monitoraggio_del_gas_radon_nel_lazio._report_agenti_fisici_03.pdf) (ita) </sub>   
