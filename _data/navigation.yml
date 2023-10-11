@@ -9,8 +9,8 @@ main:
  #   url: /blog/
  # - title: "backlog links"  #-> ABOUT ME
  #   url: /links/
-  - title: "About me"
-    url: /about/
+ # - title: "About me"
+ #   url: /about/
  
  # - title: "appn"           #-> ABOUT ME
  #   url: /appn/
