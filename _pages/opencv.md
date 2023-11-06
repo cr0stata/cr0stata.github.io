@@ -16,7 +16,6 @@ Enjoy!
     <title>Opencv JS</title>
     <script async src="../../../assets/js/opencv/opencv.js" onload="openCvReady();"></script>
     <script src="../../../assets/js/opencv/utils.js"></script>
-
 <body>
     <video  id="cam_input" height="480" width="640"></video>
     <canvas id="canvas_output"></canvas>

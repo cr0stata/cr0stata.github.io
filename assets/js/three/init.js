@@ -8,9 +8,9 @@ let scene, camera, renderer;
 function init() {
 
     scene = new THREE.Scene();
-    scene.background = new THREE.Color(0xdddddd);
+    scene.background = new THREE.Color(0x252A34);
 
-    camera = new THREE.PerspectiveCamera(40,window.innerWidth/window.innerHeight,1,5000);
+    camera = new THREE.PerspectiveCamera(50,window.innerWidth/window.innerHeight,1,5000);
     camera.rotation.y = 45/180*Math.PI;
     camera.position.x = 8;
     camera.position.y = 1;
@@ -38,13 +38,15 @@ function init() {
 
     renderer = new THREE.WebGLRenderer({antialias:true});
     renderer.setSize(window.innerWidth,window.innerHeight);
-    document.body.appendChild(renderer.domElement);
+    renderer.setSize(800,400);
+    //document.body.appendChild(renderer.domElement);
+    document.getElementById('scene-container').appendChild(renderer.domElement);
 
     const controls = new OrbitControls(camera, renderer.domElement);
     // controls.addEventListener('change', renderer);
 
     let loader = new GLTFLoader();
-    loader.load('../../../assets/js/three/car.glb', function(gltf){
+    loader.load('../../../assets/js/three/euclid.glb', function(gltf){
       const car = gltf.scene.children[0];
       console.log('car: ', car);
       car.scale.set(0.1,0.1,0.1);
