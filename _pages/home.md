@@ -10,3 +10,5 @@ header:
 
 I am Stefano Guidolotti, an aerospace research engineer with an applied math mask.  
 This is a <code>miscellaneous</code> website of what I do in my life.
+
+!! Please note, the site is under maintenance.
