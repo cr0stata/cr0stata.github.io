@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 permalink: /research/aerospace/
 hidden: true
 #title: projects_
@@ -11,13 +11,21 @@ hidden: true
 ---
 <html lang="en">
 <br> <br>
-<font size="12"> My research journey in aerospace engineering </font>
+<font size="12">  </font>
 </html>
 
-### Publications
+### <ins>2019</ins>
+NEMO: Near Earth Maritime Observatio
+<font size="2"> Pre-phase A design of a microsatellite constellation </font>
 
-### Projects 
+### <ins>2020</ins>
+- SPACECRFT STRUCTURES
 
-### Conferences and Experencies 
+### <ins>2021</ins>
+- BACKFLOW VORTEX INSTABILITIES
 
-### Students
+### <ins>2022</ins>
+- VON KARMAN
+
+### <ins>2023</ins>
+- MORFO?

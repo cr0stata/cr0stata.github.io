@@ -17,3 +17,6 @@ A useless list of links. Inspired by Mr. Rip.
 
 ### [Three.js + HTML](../testing/three)
 <code>Three.js</code> integration in HTML. To use later to list my 3D stuff (Euclid, Falcon, CADO).
+
+### [Interactive B-splines](../testing/bsplines)
+Drawing b-splines on web!

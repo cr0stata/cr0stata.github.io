@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 permalink: /research/
 hidden: true
 #title: projects_
@@ -12,17 +12,20 @@ hidden: true
 <html lang="en">
 <br>
 </html>
-# Research
-Listed below are my research interests, which include both my main work but also my free time. 
+[comment]: <> # Research
+[comment]: <> Listed below you find my work-related esearch interests, which include both my main work but also my free time. 
   
 
-### [Aerospace]()  🚀  
-[comment]: <> ../research/aerospace  
-My main field of research, focused in propulsion, optimization methods, numerical analysis and machine learning.
+### [Aerospace](../research/aerospace)
+[comment]: <> ../research/aerospace
+Interesting projects here.
+### [Testing](../research/testing)
+Side projects. They are interesting too.
 
-### [Poincaré Podcast and NFT collection](../research/poincare) 🔭 
+<br>
+
+### [Poincaré Podcast and NFT collection](../research/poincare)
 Poincaré Trajectories was a interdisciplinary research <code>sandbox</code> about dynamical systems theory and related topics.  
 The interplay of the ideas of two aerospace engineers, a computer scientist and a musician resulted in a digital art collection describing the synergies between music, art and mathematics.
 
-### [Testing](../research/testing) 🧑🏻‍💻
-Here you find my side projects.
+
